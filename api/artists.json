@@ -1,4 +1,4 @@
-const musicArtists = [
+[
     "Taylor Swift",
     "Ed Sheeran",
     "Beyoncé",
@@ -9,4 +9,4 @@ const musicArtists = [
     "Billie Eilish",
     "Post Malone",
     "Lady Gaga"
-  ];
+]
